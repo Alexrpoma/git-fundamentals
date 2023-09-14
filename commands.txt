@@ -6,3 +6,8 @@ git rm --cached index.html -> to remove a file from stage area
 git rm -r --cached . -> to remove all files in stage area
 git commit -m "message" -> to commit with a message
 git commit --amend -m "new message" -> to change the last commit message
+git branch <name-of-new-branch> -> to create a new branch
+git checkout -b <new-branch> -> to create new branch and checkout there
+git checkout <name-of-branch> -> to change branch
+git push --set-upstream origin <name-of-branch> -> to push new branch to remote repo
+git branch -d <branch-to-delete> -> to delete a branch
