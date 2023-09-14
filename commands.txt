@@ -1,0 +1,8 @@
+Used commands:
+git init -> to initializer git 
+git add . -> to add all files to stage area
+git add -A -> to add all simple files to stage area
+git rm --cached index.html -> to remove a file from stage area
+git rm -r --cached . -> to remove all files in stage area
+git commit -m "message" -> to commit with a message
+git commit --amend -m "new message" -> to change the last commit message
