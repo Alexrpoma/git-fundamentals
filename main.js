@@ -3,3 +3,7 @@ function hello(message) {
 }
 
 hello('world!')
+
+function welcome() {
+  console.log('welcome to git')
+}
