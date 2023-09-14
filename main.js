@@ -1,5 +1,5 @@
 function hello(message) {
-  console.log(`Hello ${message}`)
+  console.log(`Hello ${message}!!`)
 }
 
 hello('world!')
